@@ -5,4 +5,9 @@ public class Participantes {
 	String David;
 	String Galy;
 	String DAM;
+	private void Syso() {
+		System.out.println("Creado por david");
+
+	}
+	
 }
