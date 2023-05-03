@@ -9,5 +9,8 @@ public class Participantes {
 		System.out.println("Creado por david");
 
 	}
-	
+	private void Syso() {
+		System.out.println("Creado por galy");
+
+	}
 }
